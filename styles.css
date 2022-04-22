@@ -1,0 +1,18 @@
+/* CSS Document */
+body {
+	background-color: #3A1C00
+}
+h1 {
+	text-align:center;
+	color: #FF1E1E;
+	font-size: 40px;
+}
+p {
+	text-align:center;
+	color: #FFFC00;
+	font-size: 22px;
+}
+	
+.burger1 {
+	height: 60%;
+}
